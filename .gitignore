@@ -1,1 +1,5 @@
 *.class
+/programa2/nbproject/private/
+/programa2/build/
+/programa03/nbproject/private/
+/programa03/build/
